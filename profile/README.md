@@ -1,18 +1,13 @@
-# awakr
+# awakr-repos
 
-awakr is an open platform for businesses to build their digital presence — restaurants, stores, and any venue that needs a customizable storefront online.
-
-## Stack
-
-- **Frontend:** Astro, React, Tailwind CSS
-- **CMS:** Sanity
-- **Infrastructure:** Cloudflare Pages
+Open source projects focused on frontend development and UI infrastructure.
 
 ## Projects
 
 | Repository | Description |
 |---|---|
-| [awakr-site](https://github.com/awakr-repos/awakr-site) | Institutional site and storefront |
+| [awakr](https://github.com/awakr-repos/awakr) | Open platform for businesses to build their digital presence — restaurants, stores, and any venue that needs a customizable storefront online |
+| [awake-ui](https://github.com/awakr-repos/awake-ui) | React component library built on Base UI primitives, designed for scalability and reuse across projects |
 
 ---
 
